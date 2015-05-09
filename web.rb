@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/Kiera' do
-  "Kiera"
+  "Hello, this is Kiera and I would like to say hi. "
 end
